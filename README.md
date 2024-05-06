@@ -1,2 +1,2 @@
-# static
-存放个人静态资源，比如图片，css，js等
+### 食用方法
+https://cdn.jsdelivr.net/gh/gwt805/static/*
